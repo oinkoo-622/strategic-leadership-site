@@ -6,14 +6,14 @@ export default function Home() {
   const [selectedChallenge, setSelectedChallenge] = useState('');
   const [showResult, setShowResult] = useState(false);
 
-  const handleIndustrySelect = (industry) => {
+  const handleIndustrySelect = (industry:string) => {
     setSelectedIndustry(industry);
     if (selectedChallenge) {
       setShowResult(true);
     }
   };
 
-  const handleChallengeSelect = (challenge) => {
+  const handleChallengeSelect = (challenge:string) => {
     setSelectedChallenge(challenge);
     if (selectedIndustry) {
       setShowResult(true);
