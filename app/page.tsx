@@ -53,7 +53,7 @@ export default function Home() {
       <nav id="navbar" className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 transition-all duration-300">
         <div className="max-w-6xl mx-auto px-4">
           <div className="flex justify-between items-center py-4">
-            <div className="text-2xl font-bold text-blue-800">Strategic Leadership</div>
+            <div className="text-2xl font-bold text-blue-800">StratHeight Consultancy</div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-gray-700 hover:text-blue-800 transition-colors">Home</a>
               <a href="#expertise" className="text-gray-700 hover:text-blue-800 transition-colors">Expertise</a>
@@ -345,9 +345,9 @@ export default function Home() {
               
               <div className="mb-8">
                 <h3 className="text-xl font-bold text-amber-400 mb-4">Direct Access</h3>
-                <p className="mb-2">📧 strategy@yourname.com</p>
-                <p className="mb-2">📱 +1 (555) 123-4567</p>
-                <p className="mb-6">📍 New York • London • Singapore</p>
+                <p className="mb-2">📧 aankursingh10@gmail.com</p>
+                <p className="mb-2">📱 +971 50 721 9711</p>
+                <p className="mb-6">📍 Dubai • Bengaluru</p>
               </div>
 
               <div className="flex space-x-4">
@@ -406,7 +406,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <div>
-              <h3 className="text-xl font-bold text-blue-400 mb-4">Strategic Leadership</h3>
+              <h3 className="text-xl font-bold text-blue-400 mb-4">StratHeight Consultancy</h3>
               <p className="text-gray-300">Transforming complex challenges into breakthrough results through strategic thinking and proven impact.</p>
             </div>
             <div>
@@ -430,7 +430,7 @@ export default function Home() {
           </div>
           
           <div className="text-center pt-8 border-t border-gray-700 text-gray-400">
-            <p>&copy; 2025 Strategic Leadership. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p>&copy; 2025 StratHeight Consultancy. All rights reserved. | Privacy Policy | Terms of Service</p>
           </div>
         </div>
       </footer>
