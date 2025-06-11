@@ -30,7 +30,7 @@ export default function Home() {
     };
     
     const key = `${selectedIndustry}-${selectedChallenge}`;
-    return results[key] || results['default'];
+    return results[key as keyof typeof results] || results['default'];
   };
 
   useEffect(() => {
