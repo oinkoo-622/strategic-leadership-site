@@ -71,13 +71,13 @@ export default function Home() {
       <section id="home" className="pt-20 pb-16 px-4" style={{background: 'linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%)'}}>
         <div className="max-w-4xl mx-auto text-center text-white py-20">
           <h1 className="text-5xl md:text-6xl font-black mb-6 leading-tight">
-            Big challenges. Bold solutions. Real impact.
+          Helping MSMEs & Startups Scale with Strategic Clarity
           </h1>
           <p className="text-2xl mb-6 opacity-90">
-            Bold thinking. Proven impact. Your next breakthrough starts here.
+          Build Smarter, Grow Faster
           </p>
           <p className="text-lg mb-12 max-w-3xl mx-auto opacity-80">
-            Transform complex challenges into breakthrough results through strategic thinking, proven methodologies, and deep industry expertise.
+          Unlock growth through data-driven planning, efficient operations, and market-aligned execution.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a href="#impact" className="bg-amber-500 hover:bg-amber-600 text-white font-bold py-4 px-8 rounded-lg transition-all duration-300 hover:-translate-y-1">
