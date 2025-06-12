@@ -13,15 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Strategic Leadership Consulting | Business Transformation Expert',
+  title: 'StratHeight Consulting | Business Transformation Expert',
   description: 'Transform complex challenges into breakthrough results through strategic thinking, proven methodologies, and deep industry expertise. Your next breakthrough starts here.',
   keywords: 'strategic leadership, business consulting, transformation, growth strategy',
-  authors: [{ name: 'Strategic Leadership Consulting' }],
+  authors: [{ name: 'StratHeight Consulting' }],
   openGraph: {
-    title: 'Strategic Leadership Consulting',
+    title: 'StratHeight Consulting',
     description: 'Bold thinking. Proven impact. Transform your business challenges into breakthrough results.',
-    url: 'https://strategic-leadership-site.vercel.app',
-    siteName: 'Strategic Leadership',
+    url: 'https://stratheight_consultancy.vercel.app',
+    siteName: 'StratHeight Consultancy',
     type: 'website',
   },
 };
